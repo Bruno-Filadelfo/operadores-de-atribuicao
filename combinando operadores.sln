@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "combinando operadores", "combinando operadores\combinando operadores.csproj", "{D016C46D-8BDA-4F0F-881C-1827CD609C53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cast casting", "cast casting\cast casting.csproj", "{28591230-2869-402F-B7B7-3E6043906221}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D016C46D-8BDA-4F0F-881C-1827CD609C53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D016C46D-8BDA-4F0F-881C-1827CD609C53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D016C46D-8BDA-4F0F-881C-1827CD609C53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D016C46D-8BDA-4F0F-881C-1827CD609C53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28591230-2869-402F-B7B7-3E6043906221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28591230-2869-402F-B7B7-3E6043906221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28591230-2869-402F-B7B7-3E6043906221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28591230-2869-402F-B7B7-3E6043906221}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
