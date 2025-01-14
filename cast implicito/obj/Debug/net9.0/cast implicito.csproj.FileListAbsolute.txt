@@ -1,0 +1,15 @@
+C:\Users\Bruno\OneDrive\Área de Trabalho\Dio\cast implicito\bin\Debug\net9.0\cast implicito.exe
+C:\Users\Bruno\OneDrive\Área de Trabalho\Dio\cast implicito\bin\Debug\net9.0\cast implicito.deps.json
+C:\Users\Bruno\OneDrive\Área de Trabalho\Dio\cast implicito\bin\Debug\net9.0\cast implicito.runtimeconfig.json
+C:\Users\Bruno\OneDrive\Área de Trabalho\Dio\cast implicito\bin\Debug\net9.0\cast implicito.dll
+C:\Users\Bruno\OneDrive\Área de Trabalho\Dio\cast implicito\bin\Debug\net9.0\cast implicito.pdb
+C:\Users\Bruno\OneDrive\Área de Trabalho\Dio\cast implicito\obj\Debug\net9.0\cast implicito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\OneDrive\Área de Trabalho\Dio\cast implicito\obj\Debug\net9.0\cast implicito.AssemblyInfoInputs.cache
+C:\Users\Bruno\OneDrive\Área de Trabalho\Dio\cast implicito\obj\Debug\net9.0\cast implicito.AssemblyInfo.cs
+C:\Users\Bruno\OneDrive\Área de Trabalho\Dio\cast implicito\obj\Debug\net9.0\cast implicito.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\OneDrive\Área de Trabalho\Dio\cast implicito\obj\Debug\net9.0\cast implicito.sourcelink.json
+C:\Users\Bruno\OneDrive\Área de Trabalho\Dio\cast implicito\obj\Debug\net9.0\cast implicito.dll
+C:\Users\Bruno\OneDrive\Área de Trabalho\Dio\cast implicito\obj\Debug\net9.0\refint\cast implicito.dll
+C:\Users\Bruno\OneDrive\Área de Trabalho\Dio\cast implicito\obj\Debug\net9.0\cast implicito.pdb
+C:\Users\Bruno\OneDrive\Área de Trabalho\Dio\cast implicito\obj\Debug\net9.0\cast implicito.genruntimeconfig.cache
+C:\Users\Bruno\OneDrive\Área de Trabalho\Dio\cast implicito\obj\Debug\net9.0\ref\cast implicito.dll

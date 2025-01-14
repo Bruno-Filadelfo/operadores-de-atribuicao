@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cast casting", "cast castin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "conversao para string", "conversao para string\conversao para string.csproj", "{69E6FC16-F9DE-42D2-975F-BC33093E73D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cast implicito", "cast implicito\cast implicito.csproj", "{D8FC07F0-92B5-4DA6-9CD9-73B227A5843C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ordem dos operadores", "ordem dos operadores\ordem dos operadores.csproj", "{42014103-0A71-4061-B2BF-F846175D0C3B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +34,13 @@ Global
 		{69E6FC16-F9DE-42D2-975F-BC33093E73D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69E6FC16-F9DE-42D2-975F-BC33093E73D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69E6FC16-F9DE-42D2-975F-BC33093E73D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8FC07F0-92B5-4DA6-9CD9-73B227A5843C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8FC07F0-92B5-4DA6-9CD9-73B227A5843C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8FC07F0-92B5-4DA6-9CD9-73B227A5843C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8FC07F0-92B5-4DA6-9CD9-73B227A5843C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42014103-0A71-4061-B2BF-F846175D0C3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42014103-0A71-4061-B2BF-F846175D0C3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42014103-0A71-4061-B2BF-F846175D0C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42014103-0A71-4061-B2BF-F846175D0C3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
