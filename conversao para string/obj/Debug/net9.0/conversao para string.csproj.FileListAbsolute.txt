@@ -1,0 +1,15 @@
+C:\Users\Bruno\OneDrive\Área de Trabalho\Dio\conversao para string\bin\Debug\net9.0\conversao para string.exe
+C:\Users\Bruno\OneDrive\Área de Trabalho\Dio\conversao para string\bin\Debug\net9.0\conversao para string.deps.json
+C:\Users\Bruno\OneDrive\Área de Trabalho\Dio\conversao para string\bin\Debug\net9.0\conversao para string.runtimeconfig.json
+C:\Users\Bruno\OneDrive\Área de Trabalho\Dio\conversao para string\bin\Debug\net9.0\conversao para string.dll
+C:\Users\Bruno\OneDrive\Área de Trabalho\Dio\conversao para string\bin\Debug\net9.0\conversao para string.pdb
+C:\Users\Bruno\OneDrive\Área de Trabalho\Dio\conversao para string\obj\Debug\net9.0\conversao para string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\OneDrive\Área de Trabalho\Dio\conversao para string\obj\Debug\net9.0\conversao para string.AssemblyInfoInputs.cache
+C:\Users\Bruno\OneDrive\Área de Trabalho\Dio\conversao para string\obj\Debug\net9.0\conversao para string.AssemblyInfo.cs
+C:\Users\Bruno\OneDrive\Área de Trabalho\Dio\conversao para string\obj\Debug\net9.0\conversao para string.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\OneDrive\Área de Trabalho\Dio\conversao para string\obj\Debug\net9.0\conversao para string.sourcelink.json
+C:\Users\Bruno\OneDrive\Área de Trabalho\Dio\conversao para string\obj\Debug\net9.0\conversao para string.dll
+C:\Users\Bruno\OneDrive\Área de Trabalho\Dio\conversao para string\obj\Debug\net9.0\refint\conversao para string.dll
+C:\Users\Bruno\OneDrive\Área de Trabalho\Dio\conversao para string\obj\Debug\net9.0\conversao para string.pdb
+C:\Users\Bruno\OneDrive\Área de Trabalho\Dio\conversao para string\obj\Debug\net9.0\conversao para string.genruntimeconfig.cache
+C:\Users\Bruno\OneDrive\Área de Trabalho\Dio\conversao para string\obj\Debug\net9.0\ref\conversao para string.dll

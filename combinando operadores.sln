@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "combinando operadores", "co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cast casting", "cast casting\cast casting.csproj", "{28591230-2869-402F-B7B7-3E6043906221}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "conversao para string", "conversao para string\conversao para string.csproj", "{69E6FC16-F9DE-42D2-975F-BC33093E73D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{28591230-2869-402F-B7B7-3E6043906221}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28591230-2869-402F-B7B7-3E6043906221}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28591230-2869-402F-B7B7-3E6043906221}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69E6FC16-F9DE-42D2-975F-BC33093E73D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69E6FC16-F9DE-42D2-975F-BC33093E73D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69E6FC16-F9DE-42D2-975F-BC33093E73D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69E6FC16-F9DE-42D2-975F-BC33093E73D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
